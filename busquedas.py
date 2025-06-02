@@ -34,46 +34,10 @@ def busqueda_binaria_recursiva(lista, objetivo, inicio=0, fin=None):
         # Buscar en la mitad izquierda
         return busqueda_binaria_recursiva(lista, objetivo, inicio, medio - 1)
     
-#Implementación de prueba 
-import timeit
-import random
 
-def generar_lista_ordenada(tamano):
-    return sorted(random.sample(range(tamano*10), tamano))
 
-def prueba_busqueda(funcion, lista, objetivo):
-    # Usamos timeit para medir el tiempo
-    tiempo = timeit.timeit(lambda: funcion(lista, objetivo), number=1000)
-    return tiempo
 
-# Tamaños de lista para probar
-tamanos = [10, 100, 1000, 10000, 100000, 1000000]
 
-print("Tiempos de ejecución (en milisegundos) para 1000 ejecuciones:")
-print("{:<10} {:<20} {:<20}".format("Tamaño", "Iterativa", "Recursiva"))
-
-for tamano in tamanos:
-    lista = generar_lista_ordenada(tamano)
-    objetivo = random.choice(lista)  # Objetivo que existe en la lista
-    
-    # Probamos con un objetivo que existe
-    tiempo_iter = prueba_busqueda(busqueda_binaria_iterativa, lista, objetivo)
-    tiempo_rec = prueba_busqueda(busqueda_binaria_recursiva, lista, objetivo)
-    
-    print("{:<10} {:<20.5f} {:<20.5f}".format(
-        tamano, tiempo_iter*1000, tiempo_rec*1000))
-    
-
-#Prueba adicional 
-
-# Prueba con objetivo no existente
-objetivo = -1  # Que no existe en la lista
-tiempo_iter = prueba_busqueda(busqueda_binaria_iterativa, lista, objetivo)
-tiempo_rec = prueba_busqueda(busqueda_binaria_recursiva, lista, objetivo)
-
-# Prueba con listas pequeñas (caso base)
-lista_pequena = [1, 2, 3]
-objetivo = 2
 
     
 
