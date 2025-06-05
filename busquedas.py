@@ -33,7 +33,12 @@ def busqueda_binaria_recursiva(lista, objetivo, inicio=0, fin=None):
     else:
         # Buscar en la mitad izquierda
         return busqueda_binaria_recursiva(lista, objetivo, inicio, medio - 1)
-    
+#funcòn lineal, busqueda lineal
+def busqueda_lineal(lista, objetivo):
+    for i in range(len(lista)):
+        if lista[i] == objetivo:
+            return i
+    return -1
 
 
 
