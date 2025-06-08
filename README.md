@@ -1,7 +1,7 @@
  Algoritmos de Búsqueda en Python
  Integrantes del grupo
 - Anahí Betancort – Comisión 1
-- Erica Bazoar - Comisión  10
+- Erica Bustamante - Comisión  10
 
  Programación 1
 
@@ -29,4 +29,7 @@ quisimos probar distintos algoritmos y analizar su desempeño en listas de diver
 └── README.md # Este archivo
 
  Enlace al video 
-🔗 Link al video de presentación del proyecto (será agregado luego de la grabación)
+https://youtu.be/IWVFGC6tEmo
+https://drive.google.com/file/d/1fhZjs-glqT3dLsJ8AZRkmQJOyZj_cUnF/view?usp=sharing
+Enlace a la presentación
+https://docs.google.com/presentation/d/1exDZwbKhBC2hpCDB3By1lRylsqg7YeR7dGBr-YhMXAs/edit?usp=sharing
