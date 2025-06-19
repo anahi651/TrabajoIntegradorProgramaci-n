@@ -28,8 +28,8 @@ El objetivo de este trabajo fue analizar y comparar la eficiencia de distintos a
 └── README.md # Este archivo
 
  Enlace al video 
-Enlase 1 presentación: https://youtu.be/IWVFGC6tEmo
+Enlace 1 presentación: https://youtu.be/IWVFGC6tEmo
 Enlace con correciones: https://youtu.be/E3GE6-j6bvw
-[https://drive.google.com/file/d/1fhZjs-glqT3dLsJ8AZRkmQJOyZj_cUnF/view?usp=sharing](https://drive.google.com/file/d/1fK5lFLx9eSlcFs3BC1kcqisy1Rg6nKUc/view?usp=sharing)
-Enlace a la presentación
+Enlace drive:[https://drive.google.com/file/d/1fhZjs-glqT3dLsJ8AZRkmQJOyZj_cUnF/view?usp=sharing](https://drive.google.com/file/d/1fK5lFLx9eSlcFs3BC1kcqisy1Rg6nKUc/view?usp=sharing)
+Enlace a la presentación:
 https://docs.google.com/presentation/d/1exDZwbKhBC2hpCDB3By1lRylsqg7YeR7dGBr-YhMXAs/edit?usp=sharing
