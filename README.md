@@ -6,8 +6,7 @@
  Programación 1
 
 Presentación del tema
-Optamos por este proyecto para explorar el funcionamiento y la eficiencia de los algoritmos de búsqueda en Python. Dado que la optimización del rendimiento es esencial en el manejo de grandes volúmenes de datos,
-quisimos probar distintos algoritmos y analizar su desempeño en listas de diversos tamaños.
+El objetivo de este trabajo fue analizar y comparar la eficiencia de distintos algoritmos de búsqueda y ordenamiento en Python, aplicando luego estos conocimientos en un caso práctico: un sistema de gestión de empleados.
 
  Objetivos del proyecto
 - Implementar algoritmos de búsqueda lineal y binaria en Python.
@@ -29,7 +28,8 @@ quisimos probar distintos algoritmos y analizar su desempeño en listas de diver
 └── README.md # Este archivo
 
  Enlace al video 
-https://youtu.be/IWVFGC6tEmo
-https://drive.google.com/file/d/1fhZjs-glqT3dLsJ8AZRkmQJOyZj_cUnF/view?usp=sharing
+Enlase 1 presentación: https://youtu.be/IWVFGC6tEmo
+Enlace con correciones: https://youtu.be/E3GE6-j6bvw
+[https://drive.google.com/file/d/1fhZjs-glqT3dLsJ8AZRkmQJOyZj_cUnF/view?usp=sharing](https://drive.google.com/file/d/1fK5lFLx9eSlcFs3BC1kcqisy1Rg6nKUc/view?usp=sharing)
 Enlace a la presentación
 https://docs.google.com/presentation/d/1exDZwbKhBC2hpCDB3By1lRylsqg7YeR7dGBr-YhMXAs/edit?usp=sharing
